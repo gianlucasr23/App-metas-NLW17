@@ -15,6 +15,11 @@ Como um lego, você ira utilizar peças para criar algoritmos, ou seja, para res
 - Controle de fluxo (if/else)
 - Estrutura de repetição (for, while)
 
+// hello world 
+console.log("hello world");
+// console é o objeto
+//.log("hello world") é a função, a função contem as informações dentro de si e processa a informação e depois apresenta.
+
 # Fases da resolução de um problema 
 
 Coletar os dados
