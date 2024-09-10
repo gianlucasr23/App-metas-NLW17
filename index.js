@@ -1,4 +1,17 @@
-// hello world 
-console.log("hello world");
-// console é o objeto
-//.log("hello world") é a função, a função contem as informações dentro de si e processa a informação e depois apresenta.
+//array, objetos
+let meta = {
+    value: 'ler um livro todo mês',
+    checked: false,
+    log: (info) => {
+        console.log(info)
+    }
+}
+
+meta.value = "não é mais ler um livro"
+meta.log(meta.value)
+
+// function // arrow function
+
+// const criarMeta = () => {}
+
+// function  criarMeta () 
