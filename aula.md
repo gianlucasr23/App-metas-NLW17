@@ -62,4 +62,9 @@ Uma lista que contem qualquer tipo de dado
 [x] arrow function/named fuction 
 
 # Estrutura de repetição 
+
  [x] While
+
+ ## Condicionais
+
+ [x] switch
