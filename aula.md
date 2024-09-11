@@ -60,3 +60,6 @@ Uma lista que contem qualquer tipo de dado
 [x] criar, passar argumento
 [x] executar
 [x] arrow function/named fuction 
+
+# Estrutura de repetição 
+ [x] While
