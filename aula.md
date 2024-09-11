@@ -68,3 +68,8 @@ Uma lista que contem qualquer tipo de dado
  ## Condicionais
 
  [x] switch
+
+ ## Módulos em Node.js:
+
+ [x] Importação de módulos (require, CommonJS)
+ [x] Biblioteca 'Inquirer' para criar prompts interativos
