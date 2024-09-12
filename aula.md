@@ -41,6 +41,7 @@ Apresentar os dados
 
 [x] Operador de atribuição de valor = 
 [x] Operador de concatenação + (é a junção de uma ou mais strings)
+[x] Operadores de comparação: == != <= >= < >
 
 ## Estruturas de dados
 
@@ -68,8 +69,14 @@ Uma lista que contem qualquer tipo de dado
  ## Condicionais
 
  [x] switch
+ [x] if/else
 
  ## Módulos em Node.js:
 
  [x] Importação de módulos (require, CommonJS)
  [x] Biblioteca 'Inquirer' para criar prompts interativos
+
+ ## Programação assíncrona e Promises
+
+ [x] Uso de funções assíncronas (assync/await)
+ [ ] 
