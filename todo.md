@@ -1,5 +1,5 @@
-- Criar metas
-- Listar metas
+- [x] Criar metas
+- [x]Listar metas
     - Metas realizadas
     - metas abertas
 - Marcar/Descamar metas realizadas

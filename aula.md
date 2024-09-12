@@ -42,13 +42,15 @@ Apresentar os dados
 [x] Operador de atribuição de valor = 
 [x] Operador de concatenação + (é a junção de uma ou mais strings)
 [x] Operadores de comparação: == != <= >= < >
+[x] spread operator: ... 
 
 ## Estruturas de dados
 
 
 ## Arrays
 
-Uma lista que contem qualquer tipo de dado
+[x] Uma lista que contem qualquer tipo de dado
+[x] Métodos de array: push, [find, foreach, filter] : HOF (higher Order functions)
 
 ## Objetos 
 
